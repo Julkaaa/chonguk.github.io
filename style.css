@@ -20,13 +20,16 @@
     margin: 0px;
     background-color: black;
  }
-
+ .header_fig img{
+   max-width: 100%;
+   height: 2%;
+ }
  .fig {
     text-align: center; /* Выравнивание по центру */
     margin-top: 75px;
 }
 .fig img{
-  max-width: 100%; 
+  max-width: 100%;
 }
 .suggestion {
     color: #fff;
